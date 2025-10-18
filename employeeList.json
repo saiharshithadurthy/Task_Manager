@@ -1,0 +1,5 @@
+[
+  {"employeeId": "6546", "username": "Naresh", "password": "Naresh123"},
+  {"employeeId": "EFGH", "username": "user1", "password": "user123"},
+  {"employeeId": "IJKL", "username": "user2", "password": "pass456"}
+]
